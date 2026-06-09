@@ -1,0 +1,11 @@
+AWS Week 4 Infrastructure Automation Project
+
+Recommended Project (Easiest for Free Tier)
+I recommend choosing the AWS Infrastructure Automation Project because it is easier to complete within the Free Tier and demonstrates multiple AWS services. The project involves:
+* Creating an EC2 instance 
+* Creating an S3 bucket 
+* Creating a CloudFormation template 
+* Creating a CodePipeline 
+* Demonstrating automated deployment 
+This directly matches the assignment requirements.
+
